@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<VersionInfo>
+  <Version>1.2</Version>
+  <Build>23</Build>
+  <Files>
+    <File>BustersMCUpdaterApp.exe</File>
+    <File>changelog.txt</File>
+    <File>blacklist</File>
+  </Files>
+</VersionInfo>
